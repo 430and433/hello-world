@@ -1,5 +1,4 @@
-# hello-world
-just another repository
+
 zhangyu
 lixiaoqiu
 fangyuan
